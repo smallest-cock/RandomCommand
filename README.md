@@ -1,4 +1,4 @@
-# RandomCommand (BakkesMod plugin)
+# Random Command (BakkesMod plugin)
 BakkesMod plugin to run a random command from a predefined list
 
 <img src='./docs/images/cover_pic.png' alt="overview" width="600"/>
